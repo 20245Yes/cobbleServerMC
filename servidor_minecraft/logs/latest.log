@@ -280,3 +280,39 @@
 [22:15:32] [Server thread/INFO]: Timings Reset
 [22:15:32] [Craft Scheduler Thread - 7 - Vault/INFO]: [Vault] No new version available
 [22:15:33] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[22:26:32] [User Authenticator #0/INFO]: UUID of player EricSilvero is 4b1361f0-bed4-38b1-841e-db5ea2891eae
+[22:26:35] [Server thread/INFO]: EricSilvero joined the game
+[22:26:36] [Server thread/INFO]: EricSilvero[/127.44.215.38:49885] logged in with entity id 101 at ([world]-981.4980240218329, 72.0, 380.88432982855335)
+[22:26:40] [Craft Scheduler Thread - 16 - OpenAudioMc/INFO]: [OpenAudioMc] [info] Attempting to login to voice chat...
+[22:26:40] [OaVoiceWorker/INFO]: [OpenAudioMc] [info] Voice chat connected!
+[22:27:00] [Server thread/INFO]: EricSilvero has made the advancement [Suit Up]
+[22:28:01] [User Authenticator #1/INFO]: UUID of player GiGi_III is b4d34481-aa3f-3c90-8d9b-6fbf6cf43c82
+[22:28:05] [Server thread/INFO]: GiGi_III joined the game
+[22:28:05] [Server thread/INFO]: GiGi_III[/127.226.163.118:38187] logged in with entity id 467 at ([world]34.66016868394685, 72.0, 1076.6851015918285)
+[22:28:38] [Server thread/INFO]: EricSilvero has made the advancement [A Seedy Place]
+[22:29:13] [Server thread/INFO]: GiGi_III issued server command: /weather clear
+[22:29:47] [Server thread/INFO]: GiGi_III issued server command: /backpack open Tinwur
+[22:29:52] [Server thread/INFO]: GiGi_III issued server command: /backpack open EricSilvero
+[22:32:49] [Server thread/INFO]: GiGi_III issued server command: /skin set GiGi_III
+[22:32:50] [Server thread/WARN]: Spruce Boat (vehicle of GiGi_III) moved wrongly! 0.26439999496487904
+[22:33:52] [Server thread/WARN]: Spruce Boat (vehicle of GiGi_III) moved wrongly! 0.3853617099503026
+[22:33:52] [Server thread/WARN]: Spruce Boat (vehicle of GiGi_III) moved wrongly! 0.7774951355117992
+[22:33:52] [Server thread/WARN]: Spruce Boat (vehicle of GiGi_III) moved wrongly! 1.1696285610732957
+[22:33:52] [Server thread/WARN]: Spruce Boat (vehicle of GiGi_III) moved wrongly! 1.5617619866347923
+[22:33:52] [Server thread/WARN]: Spruce Boat (vehicle of GiGi_III) moved wrongly! 1.9538954121962888
+[22:33:52] [Server thread/WARN]: Spruce Boat (vehicle of GiGi_III) moved wrongly! 2.3460288377577854
+[22:33:52] [Server thread/WARN]: Spruce Boat (vehicle of GiGi_III) moved wrongly! 2.738162263319282
+[22:33:52] [Server thread/WARN]: Spruce Boat (vehicle of GiGi_III) moved wrongly! 3.1302956888807785
+[22:33:52] [Server thread/WARN]: Spruce Boat (vehicle of GiGi_III) moved wrongly! 3.522429114442275
+[22:33:52] [Server thread/WARN]: Spruce Boat (vehicle of GiGi_III) moved wrongly! 3.0476373816240994
+[22:33:52] [Server thread/WARN]: Spruce Boat (vehicle of GiGi_III) moved wrongly! 2.0245236348328035
+[22:33:52] [Server thread/WARN]: Spruce Boat (vehicle of GiGi_III) moved wrongly! 2.1291571770091196
+[22:33:52] [Server thread/WARN]: Spruce Boat (vehicle of GiGi_III) moved wrongly! 1.6733236456148006
+[22:33:52] [Server thread/WARN]: Spruce Boat (vehicle of GiGi_III) moved wrongly! 1.218392382646698
+[22:33:52] [Server thread/WARN]: Spruce Boat (vehicle of GiGi_III) moved wrongly! 0.7636844826743072
+[22:36:36] [EventThread/INFO]: [OpenAudioMc] [info] The server closed the primary connection, but we were already aware of this. Ignoring.
+[22:42:37] [Server thread/INFO]: GiGi_III issued server command: /sethome Aldea
+[22:42:43] [Server thread/INFO]: GiGi_III issued server command: /sethome Aldea
+[22:42:56] [Server thread/INFO]: GiGi_III issued server command: /home home
+[22:43:00] [Server thread/INFO]: GiGi_III issued server command: /home aldea
+[22:43:07] [Server thread/INFO]: GiGi_III issued server command: /hat

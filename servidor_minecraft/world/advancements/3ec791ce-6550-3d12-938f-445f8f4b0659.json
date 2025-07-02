@@ -8,8 +8,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-07-02 00:59:29 +0000",
+      "minecraft:mushroom_fields": "2025-07-02 02:46:34 +0000",
       "minecraft:forest": "2025-07-02 00:42:05 +0000",
       "minecraft:taiga": "2025-07-02 00:40:14 +0000",
+      "minecraft:deep_ocean": "2025-07-02 02:51:41 +0000",
       "minecraft:river": "2025-07-02 00:42:34 +0000",
       "minecraft:plains": "2025-07-02 01:30:55 +0000"
     },
@@ -653,6 +655,12 @@
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_minecart": "2025-07-02 02:28:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2025-07-02 02:51:02 +0000"
     },
     "done": true
   },

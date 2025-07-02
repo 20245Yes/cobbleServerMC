@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.231.27.75
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1751490831112
+  login: 1751490841849
+money: '0'
+last-account-name: lechuguitapro215
+logoutlocation:
+  world: 3baeef91-87a1-46c5-8c6d-557945199422
+  world-name: world
+  x: 53.48956626933978
+  y: 69.0
+  z: -53.58212871597951
+  yaw: 51.300132751464844
+  pitch: 90.0

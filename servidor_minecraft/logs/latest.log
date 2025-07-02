@@ -435,3 +435,32 @@
 [02:31:11] [Server thread/INFO]: EricSilvero left the game
 [02:31:15] [Server thread/INFO]: GiGi_III has made the advancement [Isn't It Iron Pick]
 [02:34:41] [Server thread/INFO]: Tinwur issued server command: /invsee GiGi_III
+[02:34:56] [Server thread/INFO]: GiGi_III issued server command: /invsee Tinwur
+[02:35:08] [Server thread/INFO]: GiGi_III issued server command: /invsee ErickSilvero
+[02:35:10] [Server thread/INFO]: Tinwur issued server command: /invsee GiGi_III
+[02:35:19] [Server thread/INFO]: Tinwur issued server command: /invsee GiGi_III
+[02:35:32] [Server thread/INFO]: GiGi_III issued server command: /backpack open Tinwur
+[02:35:41] [Server thread/INFO]: GiGi_III issued server command: /backpack open Tinwur
+[02:35:59] [Server thread/INFO]: GiGi_III issued server command: /backpack open Tinwur
+[02:36:14] [Server thread/INFO]: Tinwur issued server command: /backpack open GiGi_III
+[02:36:23] [Server thread/INFO]: Tinwur issued server command: /invsee GiGi_III
+[02:36:29] [Server thread/INFO]: GiGi_III issued server command: /invsee
+[02:36:39] [Server thread/INFO]: GiGi_III issued server command: /whereami
+[02:36:50] [Server thread/INFO]: GiGi_III issued server command: /anvil
+[02:37:23] [Server thread/INFO]: GiGi_III issued server command: /blocklocker 2
+[02:38:33] [Server thread/INFO]: Tinwur issued server command: /backpack open GiGi_III
+[02:38:40] [Server thread/INFO]: Tinwur issued server command: /backpack open GiGi_III
+[02:38:59] [Server thread/INFO]: GiGi_III issued server command: /backpack shortcut
+[02:39:05] [Server thread/INFO]: GiGi_III issued server command: /backpack shortcut B
+[02:39:20] [Server thread/INFO]: Tinwur issued server command: /backpack open GiGi_III
+[02:40:03] [Server thread/INFO]: Tinwur issued server command: /backpack open GiGi_III
+[02:41:35] [Server thread/INFO]: GiGi_III issued server command: /backpack open Tinwur
+[02:41:39] [Server thread/INFO]: Tinwur issued server command: /backpack open GiGi_III
+[02:43:16] [Server thread/INFO]: GiGi_III issued server command: /dynmap sendtoweb
+[02:43:29] [Server thread/INFO]: GiGi_III issued server command: /dynmap fullrender
+[02:44:22] [Server thread/INFO]: GiGi_III issued server command: /vanish
+[02:44:29] [Server thread/INFO]: GiGi_III issued server command: /tp Tinwur
+[02:44:41] [Server thread/INFO]: GiGi_III issued server command: /fly
+[02:44:46] [Server thread/INFO]: GiGi_III issued server command: /home
+[02:44:48] [Server thread/INFO]: Tinwur issued server command: /fly GiGi_III
+[02:44:50] [Server thread/INFO]: GiGi_III issued server command: /fly

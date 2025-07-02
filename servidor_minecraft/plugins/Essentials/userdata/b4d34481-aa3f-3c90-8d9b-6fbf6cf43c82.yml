@@ -11,22 +11,22 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1751421928864
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1751420324202
-  login: 1751419779718
+  logout: 1751422381220
+  login: 1751422386670
 money: '0'
 logoutlocation:
   world: 3baeef91-87a1-46c5-8c6d-557945199422
   world-name: world
-  x: 20.576551449226233
-  y: 71.0
-  z: 1056.4777590272195
-  yaw: -35.1148567199707
-  pitch: 3.4499378204345703
+  x: 79.69999998807907
+  y: 14.753199980521202
+  z: 1089.5091302942321
+  yaw: -94.06570434570312
+  pitch: 2.3999886512756348
 last-account-name: GiGi_III
 homes:
   home:
@@ -37,3 +37,11 @@ homes:
     z: 1103.8095526569334
     yaw: -7.364707946777344
     pitch: 16.499916076660156
+lastlocation:
+  world: 3baeef91-87a1-46c5-8c6d-557945199422
+  world-name: world
+  x: -960.9451649692855
+  y: 65.0
+  z: 1533.7984701137775
+  yaw: 98.39730834960938
+  pitch: 7.950014591217041

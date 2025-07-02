@@ -288,3 +288,8 @@
 [20:14:26] [Server thread/INFO]: Tinwur issued server command: //set 0
 [20:24:25] [EventThread/INFO]: [OpenAudioMc] [info] The server closed the primary connection, but we were already aware of this. Ignoring.
 [20:27:21] [Server thread/INFO]: Tinwur has made the advancement [What a Deal!]
+[20:53:19] [User Authenticator #1/INFO]: UUID of player EricSilvero is 4b1361f0-bed4-38b1-841e-db5ea2891eae
+[20:53:21] [Server thread/INFO]: EricSilvero joined the game
+[20:53:21] [Server thread/INFO]: EricSilvero[/127.44.215.38:39405] logged in with entity id 5144 at ([world]-987.0673060502846, 72.0, 394.64929980337735)
+[20:53:27] [Craft Scheduler Thread - 25 - OpenAudioMc/INFO]: [OpenAudioMc] [info] Attempting to login to voice chat...
+[20:53:27] [OaVoiceWorker/INFO]: [OpenAudioMc] [info] Voice chat connected!

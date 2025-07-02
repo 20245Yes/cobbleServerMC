@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.210.120.228
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1751420324202
+  login: 1751419775221
+money: '0'
+last-account-name: Tinwur
+logoutlocation:
+  world: 3baeef91-87a1-46c5-8c6d-557945199422
+  world-name: world
+  x: 445.58320105412633
+  y: 63.0
+  z: -293.584776811962
+  yaw: -5.9886860847473145
+  pitch: 24.927827835083008
+homes:
+  home:
+    world: 3baeef91-87a1-46c5-8c6d-557945199422
+    world-name: world
+    x: 550.4992887641588
+    y: 67.0
+    z: -318.4994497393481
+    yaw: 130.81744384765625
+    pitch: 31.81397819519043

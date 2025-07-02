@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.226.163.118
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1751420324202
+  login: 1751419779718
+money: '0'
+logoutlocation:
+  world: 3baeef91-87a1-46c5-8c6d-557945199422
+  world-name: world
+  x: 20.576551449226233
+  y: 71.0
+  z: 1056.4777590272195
+  yaw: -35.1148567199707
+  pitch: 3.4499378204345703
+last-account-name: GiGi_III
+homes:
+  home:
+    world: 3baeef91-87a1-46c5-8c6d-557945199422
+    world-name: world
+    x: 50.6654219371788
+    y: 75.0
+    z: 1103.8095526569334
+    yaw: -7.364707946777344
+    pitch: 16.499916076660156

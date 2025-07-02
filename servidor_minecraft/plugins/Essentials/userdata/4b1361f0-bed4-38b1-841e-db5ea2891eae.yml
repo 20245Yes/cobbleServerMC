@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.44.215.38
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1751419965840
+  login: 1751420008798
+money: '0'
+last-account-name: EricSilvero
+logoutlocation:
+  world: 90f95e9f-ac7c-4802-afe8-cb17194c3f03
+  world-name: world_nether
+  x: 155.69999998807907
+  y: 92.75435243434984
+  z: -270.69999998807907
+  yaw: -119.31979370117188
+  pitch: 76.20011901855469
+lastlocation:
+  world: 90f95e9f-ac7c-4802-afe8-cb17194c3f03
+  world-name: world_nether
+  x: 155.69999998807907
+  y: 92.26519305939439
+  z: -270.69999998807907
+  yaw: -119.31979370117188
+  pitch: 76.20011901855469
+homes:
+  home:
+    world: 3baeef91-87a1-46c5-8c6d-557945199422
+    world-name: world
+    x: -151.69999998807907
+    y: 70.15825733336123
+    z: 925.6562267582575
+    yaw: 33.135345458984375
+    pitch: 48.449981689453125

@@ -16,17 +16,17 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1751424332426
+  logout: 1751425068297
   login: 1751422386670
 money: '0'
 logoutlocation:
   world: 3baeef91-87a1-46c5-8c6d-557945199422
   world-name: world
-  x: 79.69999998807907
-  y: 14.753199980521202
-  z: 1089.5091302942321
-  yaw: -94.06570434570312
-  pitch: 2.3999886512756348
+  x: 34.66016868394685
+  y: 72.0
+  z: 1076.6851015918285
+  yaw: -114.15093994140625
+  pitch: 5.92481803894043
 last-account-name: GiGi_III
 homes:
   home:

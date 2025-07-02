@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1751419965840
+  logout: 1751423471583
   login: 1751420008798
 money: '0'
 last-account-name: EricSilvero
 logoutlocation:
-  world: 90f95e9f-ac7c-4802-afe8-cb17194c3f03
-  world-name: world_nether
-  x: 155.69999998807907
-  y: 92.75435243434984
-  z: -270.69999998807907
-  yaw: -119.31979370117188
-  pitch: 76.20011901855469
+  world: 3baeef91-87a1-46c5-8c6d-557945199422
+  world-name: world
+  x: -987.0673060502846
+  y: 72.0
+  z: 394.64929980337735
+  yaw: -56.920257568359375
+  pitch: -63.703895568847656
 lastlocation:
   world: 90f95e9f-ac7c-4802-afe8-cb17194c3f03
   world-name: world_nether

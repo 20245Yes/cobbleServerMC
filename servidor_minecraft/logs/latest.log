@@ -413,3 +413,25 @@
 [02:20:05] [Server thread/WARN]: GiGi_III moved wrongly!
 [02:22:11] [Server thread/INFO]: GiGi_III has made the advancement [Monster Hunter]
 [02:23:12] [EventThread/INFO]: [OpenAudioMc] [info] The server closed the primary connection, but we were already aware of this. Ignoring.
+[02:25:10] [Server thread/INFO]: GiGi_III issued server command: /home
+[02:25:19] [Server thread/INFO]: GiGi_III issued server command: /home bed
+[02:27:37] [Server thread/INFO]: EricSilvero issued server command: /spscancel
+[02:27:37] [Server thread/INFO]: [SinglePlayerSleep] [Warning] [Exception] EricSilvero has never slept before.
+[02:27:37] [Server thread/INFO]: EricSilvero issued server command: /spscancel
+[02:28:25] [Server thread/INFO]: GiGi_III has made the advancement [Suit Up]
+[02:28:47] [Server thread/INFO]: GiGi_III issued server command: /blocklocker 2
+[02:28:52] [Server thread/INFO]: GiGi_III issued server command: /blocklocker
+[02:28:57] [Server thread/INFO]: GiGi_III issued server command: /blocklocker reload
+[02:28:57] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_door, ignoring it
+[02:28:57] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_fence_gate, ignoring it
+[02:28:57] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_trapdoor, ignoring it
+[02:28:57] [Server thread/INFO]: [BlockLocker] Reloaded the configuration files!
+[02:29:04] [Server thread/INFO]: GiGi_III issued server command: /blocklocker 23445
+[02:29:51] [Server thread/INFO]: Tinwur issued server command: /invsee GiGi_III
+[02:30:14] [Server thread/INFO]: Tinwur issued server command: /invsee EricSilvero
+[02:30:24] [Server thread/INFO]: GiGi_III issued server command: /blocklocker
+[02:30:27] [Server thread/INFO]: GiGi_III issued server command: /blocklocker 2
+[02:31:11] [Server thread/INFO]: EricSilvero lost connection: Disconnected
+[02:31:11] [Server thread/INFO]: EricSilvero left the game
+[02:31:15] [Server thread/INFO]: GiGi_III has made the advancement [Isn't It Iron Pick]
+[02:34:41] [Server thread/INFO]: Tinwur issued server command: /invsee GiGi_III

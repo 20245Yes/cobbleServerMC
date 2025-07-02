@@ -390,3 +390,26 @@
 [02:13:37] [Server thread/INFO]: EricSilvero has made the advancement [Diamonds!]
 [02:13:43] [Server thread/INFO]: Tinwur issued server command: /invsee EricSilvero
 [02:13:43] [Server thread/INFO]: GiGi_III issued server command: /invsee Tinwur
+[02:13:48] [Server thread/INFO]: GiGi_III issued server command: /invsee Tinwur
+[02:13:59] [Server thread/INFO]: GiGi_III issued server command: /invsee EricSilvero
+[02:14:02] [Server thread/INFO]: GiGi_III issued server command: /invsee EricSilvero
+[02:14:05] [Server thread/INFO]: GiGi_III issued server command: /invsee Tinwur
+[02:14:07] [Server thread/INFO]: Tinwur issued server command: /invsee EricSilvero
+[02:14:12] [Server thread/INFO]: Tinwur issued server command: /invsee GiGi_III
+[02:14:33] [Server thread/INFO]: Tinwur issued server command: /invsee EricSilvero
+[02:14:43] [Server thread/INFO]: Tinwur issued server command: /invsee EricSilvero
+[02:15:00] [Server thread/INFO]: GiGi_III issued server command: /invsee Tinwur
+[02:15:04] [Server thread/INFO]: GiGi_III issued server command: /invsee EricSilvero
+[02:17:05] [Server thread/INFO]: GiGi_III issued server command: /spscancel
+[02:17:05] [Server thread/INFO]: [SinglePlayerSleep] [Warning] [Exception] EricSilvero has never slept before.
+[02:17:27] [Server thread/INFO]: GiGi_III issued server command: /whisper Tinwur hola
+[02:17:30] [Server thread/INFO]: Tinwur issued server command: /media GiGi_III
+[02:17:43] [Server thread/INFO]: GiGi_III issued server command: /amsg Hola gente
+[02:17:43] [Server thread/INFO]: [Essentials] [HelpOp] GiGi_III: Hola gente
+[02:17:47] [Server thread/INFO]: Tinwur issued server command: /afk GiGi_III
+[02:18:04] [Server thread/INFO]: Tinwur issued server command: /alts GiGi_III
+[02:18:50] [Server thread/INFO]: Tinwur issued server command: /coords GiGi_III
+[02:19:09] [Server thread/INFO]: Tinwur issued server command: /coords EricSilvero
+[02:20:05] [Server thread/WARN]: GiGi_III moved wrongly!
+[02:22:11] [Server thread/INFO]: GiGi_III has made the advancement [Monster Hunter]
+[02:23:12] [EventThread/INFO]: [OpenAudioMc] [info] The server closed the primary connection, but we were already aware of this. Ignoring.
